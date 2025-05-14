@@ -1,0 +1,10 @@
+venv*
+TwinLiteNet/
+yolov7/
+runs/
+data/
+car-crash-dataset-cdd/
+
+__pycache__/
+
+*.mp4*
