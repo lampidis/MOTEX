@@ -4,15 +4,11 @@
 matplotlib
 numpy
 opencv-python
-Pillow
-PyYAML
 requests
 scipy
 torch
-torchvision
 tqdm
 pandas
-seaborn
 ipython 
 filterpy
 ultralytics
