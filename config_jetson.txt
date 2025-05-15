@@ -1,0 +1,5 @@
+torch-1.13.0a0+340c4120.nv22.06-cp38-cp38-linux_aarch64.whl
+
+
+export TORCH_URL=https://developer.download.nvidia.com/compute/redist/jp/v${JP}/pytorch/torch-${PYT}-${ABI}-linux_aarch64.whl
+export TV_URL=https://developer.download.nvidia.com/compute/redist/jp/v${JP}/pytorch/torchvision-0.15.1+nv23.05-${ABI}-linux_aarch64.whl
